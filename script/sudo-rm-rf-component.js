@@ -1,4 +1,4 @@
-/* export class SudoRmRfComponent {
+export class SudoRmRfComponent {
     constructor(container) {
         this.container = container;
     }
@@ -14,4 +14,3 @@
         this.container.appendChild(flameTemplate);
     }
 }
-*/
